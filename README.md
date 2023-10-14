@@ -41,29 +41,29 @@ body {
 .support-palestine__label {
 	color: white;
 	font-size: 12px;
-	line-height: 30px;
+	line-height: 24px;
 }
 .background {
   background: darkgreen;
 
-height:30px;
-}
+height:21px;
+} 
 .top { 
   background: black;
   width:40px;
-  height: 10px;
+  height: 8px;
   z-index: 1;
 }
 .middle {
   background: white;
   width: 100%;
-  height: 10px;
+  height: 8px;
   z-index: 1;
 }
 .triangle {
   background: auto;
-  border-top: 15px solid transparent;
-  border-bottom: 15px solid transparent;
+  border-top: 12px solid transparent;
+  border-bottom: 12px solid transparent;
   border-left: 20px solid red;
   z-index: 2;
   position: relative;
