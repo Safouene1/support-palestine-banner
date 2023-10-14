@@ -1,6 +1,7 @@
 # Banner for websites to show support for Palestine 
 Use this snippet to show your support for Palestinians on the top of your website. Installing it takes minutes.
-![image](https://github.com/Safouene1/support-palestine-banner/assets/22036449/168519a7-86de-46bf-9ce1-c877c5870a66)
+![image](https://github.com/Safouene1/support-palestine-banner/assets/22036449/bfbfe6de-0e2f-4d6d-8e7e-fd47ea00ddf2)
+
 
 
 ## About 
