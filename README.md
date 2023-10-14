@@ -70,7 +70,7 @@ height:21px;
   border-left: 20px solid red;
   z-index: 2;
   position: relative;
-  top: -18px;
+  top: -16px;
   left: 0;
 }
 </style>
