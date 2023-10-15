@@ -1,7 +1,27 @@
-# Banner for websites to show support for Palestine 
+[![StandWithPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
+
+# Support Palestine 
+This repository contains Website banners , ReadMe Banners and Github Badges  that can be used by OSS projects to spread the word, support and help Palestine in this disastrous situation.
+
+ ## Badge Banner 
+ [![StandWithPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
+ ```
+[![StandWithPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
+```
+## ReadMe Banner 
+[![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
+```
+[![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
+```
+
+## ReadMe Banner for Projects
+[![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-project.svg)
+```
+[![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-project.svg)](https://github.com/Safouene1/support-palestine-banner)
+```
+## Banner for websites to show support for Palestine 
 Use this snippet to show your support for Palestinians on the top of your website. Installing it takes minutes.
 ![image](https://github.com/Safouene1/support-palestine-banner/assets/22036449/bfbfe6de-0e2f-4d6d-8e7e-fd47ea00ddf2)
-
 
 
 ## About 
