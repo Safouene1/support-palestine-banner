@@ -24,12 +24,12 @@ Use this snippet to show your support for Palestinians on the top of your websit
 ![image](https://github.com/Safouene1/support-palestine-banner/assets/22036449/bfbfe6de-0e2f-4d6d-8e7e-fd47ea00ddf2)
 
 
-## About 
+## About tbe Website Banner 
 This code adds a small black banner on top of your website with Palestinian flag and support message. It links to islamic-relief's donation site but you can change the link to point to a support channel of your choice.
 ![image](https://github.com/Safouene1/support-palestine-banner/assets/22036449/269d2610-7025-4b69-a3b1-00fbfc2a949a)
 
 
-## Installation 
+## Installation Banner
 Installation is dead simple. Just copy this code to your template right after the opening <body> tag.
 ```
 
