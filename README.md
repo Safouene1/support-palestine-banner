@@ -27,6 +27,30 @@ This repository contains Website banners , ReadMe Banners and Github Badges that
 ```md
 [![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-project.svg)](https://github.com/Safouene1/support-palestine-banner)
 ```
+# Banner Components for React and NextJs 13 with Tailwind
+
+## Sample of mobile with dark mode
+
+![example images mobile dark mode](React-Components/example-images/mobile-dark-mode.png)
+
+## Sample of desktop with light mode
+
+![example images desktop light mode](React-Components/example-images/desktop-light-mode.png)
+
+These components out of the box supports
+
+|     | Features                    |
+| --- | --------------------------- |
+| ✅  | JavaScript                  |
+| ✅  | TypeScript                  |
+| ✅  | Server Components           |
+| ✅  | Responsive                  |
+| ✅  | Closeable                   |
+| ✅  | Position Sticky or Relative |
+
+If you are not using tailwind [import this css file](React-Components/banner.css)
+
+Components  can be found [here](https://github.com/Safouene1/support-palestine-banner/tree/master/React-Components)
 
 ## Banner for websites to show support for Palestine
 
