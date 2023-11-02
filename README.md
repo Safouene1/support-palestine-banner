@@ -151,3 +151,7 @@ Installation is dead simple. Just copy this code to your template right after th
   <div class="support-palestine__label">Donate to support Palestine</div>
 </a>
 ```
+
+### Used by
+
+- [LGU timetable](https://www.lgutimetable.live/)
