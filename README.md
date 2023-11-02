@@ -155,3 +155,5 @@ Installation is dead simple. Just copy this code to your template right after th
 ### Used by
 
 - [LGU timetable](https://www.lgutimetable.live/)
+
+- [Safouen Turki](https://safouen.me)
