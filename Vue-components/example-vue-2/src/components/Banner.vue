@@ -13,9 +13,10 @@ export default {
       description: "Stand for humanity! Palestine has a right to defend itself. Together, we can put an end to the Gaza genocide. Let's unite to #SAVEGAZA and ensure that every life in this region has access to the most basic necessities.",
       linkTo: "https://twitter.com/search?q=%23PalestineLivesMatter&src=typeahead_click"
     }
-  }, computed: {
+  }, 
+  computed: {
     darkModeClasses() {
-      return this.isDarkMode === "dark" ? {background: "bg-gray-600/70", text: "text-gray-300"} : {background: "bg-gray-50/70", text: "text-gray-900"}
+      return this.isDarkMode === true ? {background: "bg-gray-600/70", text: "text-gray-300"} : {background: "bg-gray-50/70", text: "text-gray-900"}
     }
   }
 }
