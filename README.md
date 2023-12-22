@@ -155,6 +155,8 @@ Installation is dead simple. Just copy this code to your template right after th
 
 ### Used by
 
+- [satr14's corner](https://new.sx9.is-a.dev/)
+
 - [LGU timetable](https://www.lgutimetable.online/)
 
 - [Safouen Turki](https://safouen.me)
