@@ -9,7 +9,7 @@ This repository contains Website banners , ReadMe Banners and Github Badges that
 [![StandWithPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
 
 ```md
-[![StandWithPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
 ```
 
 ## ReadMe Banner
@@ -17,7 +17,7 @@ This repository contains Website banners , ReadMe Banners and Github Badges that
 [![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
 
 ```md
-[![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
 ```
 
 ## ReadMe Banner for Projects
@@ -25,7 +25,7 @@ This repository contains Website banners , ReadMe Banners and Github Badges that
 ![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-project.svg)
 
 ```md
-[![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-project.svg)](https://github.com/Safouene1/support-palestine-banner)
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-project.svg)](https://github.com/Safouene1/support-palestine-banner)
 ```
 
 # Banner Components for React ,NextJs 13, Vue (V2 & V3) with Tailwind
