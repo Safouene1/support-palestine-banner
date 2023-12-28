@@ -160,3 +160,7 @@ Installation is dead simple. Just copy this code to your template right after th
 - [LGU timetable](https://www.lgutimetable.online/)
 
 - [Safouen Turki](https://safouen.me)
+
+- [Amin Boulouma](https://github.com/aminblm)
+
+- [Awesome #FreePalestine🇵🇸 Support Kit](https://github.com/aminblm/awesome-free-palestine-support-kit/tree/main)
