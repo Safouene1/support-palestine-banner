@@ -20,6 +20,14 @@ This repository contains Website banners , ReadMe Banners and Github Badges that
 [![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
 ```
 
+Or 
+
+<img src="https://github.com/Safouene1/support-palestine-banner/blob/master/palestine-banner.png" width="800px">
+
+```md
+<img src="https://github.com/Safouene1/support-palestine-banner/blob/master/palestine-banner.png" width="800px">
+```
+
 ## ReadMe Banner for Projects
 
 ![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-project.svg)
