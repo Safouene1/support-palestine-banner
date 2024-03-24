@@ -4,7 +4,7 @@ export default function Banner() {
   const isDarkMode = true;
   const title = "Free Palestine 🇵🇸";
   const description = `Stand for humanity! Palestine has a right to defend itself. Together, we can put an end to the Gaza genocide. Let's unite to #SAVEGAZA and ensure that every life in this region has access to the most basic necessities.`;
-  const linkTo = "https://twitter.com/search?q=%23PalestineLivesMatter";
+  const linkTo = "https://twitter.com/search?q=%23GazaGenocide";
   // ---- change the content above if you want to ----
 
   const flag = {
