@@ -13,6 +13,7 @@ The best way to financially support Palestine is by donating directly to one of 
 - [Palestine red crescent society](https://www.palestinercs.org/en/Donation) : Provides medical help to palestinians.
 - [UNRWA - United Nations Relief and Works](https://donate.unrwa.org/-landing-page/en_EN) : Provides food and cash assistance to palestinians.
 - [Save the children](https://donate.savethechildren.org/en) : Provides protection for children.
+- [Alkhidmat](https://alkhidmat.org/donate) : Provides food and medical help to palestinians.
 
 **Other way to support**
 
