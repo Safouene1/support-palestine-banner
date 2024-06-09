@@ -20,7 +20,7 @@ To use the support-palestine-banner component, simply include the following tag 
 <support-palestine-banner></support-palestine-banner>
 ```
 
-This will display a banner on your page with a stylized representation of the Palestinian flag and a link to donate to a charity that supports Palestine.
+This will display a banner on your page with a stylized representation of the Palestinian flag and a link to donate to a charity that supports Palestine. See example usage in the `index.html` file.
 
 ## Customization
 
