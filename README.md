@@ -153,6 +153,10 @@ Installation is dead simple. Just copy this code to your template right after th
 </a>
 ```
 
+## Banner Custom Web Component
+
+Read more about the custom web component [here](Web-component/README.md).
+
 ### Used by
 
 - [satr14's corner](https://new.sx9.is-a.dev/)
