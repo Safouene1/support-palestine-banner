@@ -37,7 +37,7 @@ Welcome to the Support Palestine Banner project! This repository contains a mult
 [![StandWithPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/StandWithPalestine.svg)](./Markdown-pages/Support.md)
 
 ```md
-[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
 ```
 
 ### ReadMe Banner
@@ -45,7 +45,7 @@ Welcome to the Support Palestine Banner project! This repository contains a mult
 [![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg)](./Markdown-pages/Support.md)
 
 ```md
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
 ```
 
 ### ReadMe Banner for Projects
@@ -53,7 +53,7 @@ Welcome to the Support Palestine Banner project! This repository contains a mult
 [![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-project.svg)](./Markdown-pages/Support.md)
 
 ```md
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-project.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-project.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
 ```
 
 # Banner Components for React ,NextJs 13, Vue (V2 & V3) with Tailwind
